@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://gitee.com/willianfu/jw-workflow-engine/blob/master/doc/image/README/logo.png" width="100px">
-</p>
 
 <h1 align="center">wflow-vue3 工作流</h1>
 
@@ -12,7 +9,7 @@
 
 > 区别于传统Bpmn自带流程设计器，传统设计器晦涩难懂，对于普通企业用户使用门槛偏高，没有经过专业培训根本无从下手，需要相关专业人员辅助来创建流程。而本设计器界面简单，符合普通大众的思维逻辑，易于理解和上手使用。
 
-👉 在线体验地址： [戳我打开演示页面](http://150.158.162.224:82/#/admin/design?groupId=%5Bobject%20PointerEvent%5D) 👈
+👉 在线体验地址： [戳我打开演示页面](http://150.158.162.224:82/#/admin/design?groupId=%5Bobject%20PointerEvent%5D) 👈  点击③ 审批流程
 
 ### 流程数据结构
 
